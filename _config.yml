@@ -40,12 +40,12 @@ author:
       url:
     - name: linkedin
       url:
+    - name: soundcloud
+      url: https://soundcloud.com/empire-sm
     - name: stackoverflow
       url:
     - name: twitter
-      url: 
-    - name: vk
-      url:
+      url: https://twitter.com/EmpireSM_
 home:
   section1: <h1>EMPIRE</h1>
   section2: <img src="assets/images/theme/empire.png"> 

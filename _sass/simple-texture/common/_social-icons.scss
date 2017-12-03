@@ -68,6 +68,12 @@ $size: 48;
         background-color: #FFA500;
     }
 
+    .ico-soundcloud {
+        @include get-ico-image(soundcloud);
+
+        background-color: #3B5998;
+    }
+
     .ico-stackoverflow {
         @include get-ico-image(stackoverflow);
 
