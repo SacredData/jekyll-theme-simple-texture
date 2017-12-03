@@ -26,6 +26,12 @@ $size: 48;
         }
     }
 
+    .ico-bandcamp {
+        @include get-ico-image(bandcamp);
+
+        background-color: #3B5998;
+    }
+
     .ico-facebook {
         @include get-ico-image(facebook);
 
