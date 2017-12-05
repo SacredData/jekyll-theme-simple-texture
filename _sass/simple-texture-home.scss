@@ -27,6 +27,8 @@ h2 {
 
 h3 {
     font-size: 1.725em;
+
+    padding: 325px;
 }
 
 .small,
@@ -79,8 +81,18 @@ textarea {
     }
 }
 
+@keyframes triangle{
+  0% {background-image: url(../images/theme/sm4.png);}
+  38% {background-image: url(../images/theme/sm-2-scale.png);}
+  66% {background-image: url(../images/theme/sm-3-scale.png);}
+  100% {background-image: url(../images/theme/sm-1-scale.png);}
+}
+
 #section0 {
-    background: url('../images/theme/noisy_texture_section0-200x200.png') repeat 0 0 #F0F0F0;
+    background-image: url('../images/theme/noisy_texture_section0-200x200.png'),url('../images/theme/sm4.png');
+    background-position: 0 0,center;
+    background-repeat: repeat,no-repeat;
+    background-size: auto,650px;
 }
 
 #section1 {
