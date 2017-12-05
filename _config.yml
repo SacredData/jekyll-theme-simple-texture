@@ -48,7 +48,7 @@ author:
       url: https://twitter.com/EmpireSM_
 home:
   section1: <h1>EMPIRE</h1>
-  section2: <img src="assets/images/theme/empire.png"> 
+  section2: <h3><img src="assets/images/theme/sm-2-scale.png"></h3>
   section3: <h2>Sonic Multiplicities</h2>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
