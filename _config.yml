@@ -25,11 +25,11 @@ url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
 title: EMPIRE
 description: "Sonic Multiplicities"
-keywords: 'jekyll,theme,gem-based,blog'
+keywords: 'music,electroacoustic,experimental,classical,violin,computer,AI,supercollider'
 author:
   name:
   job_title:
-  location:
+  location: Brooklyn, NY
   email: andrew@grathwohl.me
   social_links:
     - name: bandcamp
