@@ -1,43 +1,67 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2017-12-14T22:10:14-05:00</updated><id>http://localhost:4000/</id><title type="html">EMPIRE</title><subtitle>Sonic Multiplicities</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;job_title&quot;=&gt;nil, &quot;location&quot;=&gt;&quot;Brooklyn, NY&quot;, &quot;email&quot;=&gt;&quot;andrew@grathwohl.me&quot;, &quot;social_links&quot;=&gt;[{&quot;name&quot;=&gt;&quot;bandcamp&quot;, &quot;url&quot;=&gt;&quot;https://empire-sm.bandcamp.com/&quot;}, {&quot;name&quot;=&gt;&quot;github&quot;, &quot;url&quot;=&gt;nil}, {&quot;name&quot;=&gt;&quot;instagram&quot;, &quot;url&quot;=&gt;nil}, {&quot;name&quot;=&gt;&quot;linkedin&quot;, &quot;url&quot;=&gt;nil}, {&quot;name&quot;=&gt;&quot;soundcloud&quot;, &quot;url&quot;=&gt;&quot;https://soundcloud.com/empire-sm&quot;}, {&quot;name&quot;=&gt;&quot;stackoverflow&quot;, &quot;url&quot;=&gt;nil}, {&quot;name&quot;=&gt;&quot;twitter&quot;, &quot;url&quot;=&gt;&quot;https://twitter.com/EmpireSM_&quot;}]}</name><email>andrew@grathwohl.me</email></author><entry><title type="html">A Brief Introduction</title><link href="http://localhost:4000/blog/2017/12/14/sm-intro/" rel="alternate" type="text/html" title="A Brief Introduction" /><published>2017-12-14T00:00:00-05:00</published><updated>2017-12-14T00:00:00-05:00</updated><id>http://localhost:4000/blog/2017/12/14/sm-intro</id><content type="html" xml:base="http://localhost:4000/blog/2017/12/14/sm-intro/">* Kramdown table of contents
-{:toc .toc}
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2017-12-15T23:29:52-05:00</updated><id>http://localhost:4000/</id><title type="html">EMPIRE</title><subtitle>Sonic Multiplicities</subtitle><author><name>Andrew Grathwohl</name><email>andrew@grathwohl.me</email></author><entry><title type="html">A Brief Introduction</title><link href="http://localhost:4000/blog/2017/12/14/sm-intro/" rel="alternate" type="text/html" title="A Brief Introduction" /><published>2017-12-14T00:00:00-05:00</published><updated>2017-12-14T00:00:00-05:00</updated><id>http://localhost:4000/blog/2017/12/14/sm-intro</id><content type="html" xml:base="http://localhost:4000/blog/2017/12/14/sm-intro/">&lt;ul class=&quot;toc&quot; id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#heading-introduction-to-sonic-multiplicities&quot; id=&quot;markdown-toc-heading-introduction-to-sonic-multiplicities&quot;&gt;Introduction to Sonic Multiplicities&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#heading-musical-input&quot; id=&quot;markdown-toc-heading-musical-input&quot;&gt;Musical Input&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#heading-logic-based-compositional-framework&quot; id=&quot;markdown-toc-heading-logic-based-compositional-framework&quot;&gt;Logic-Based Compositional Framework&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#heading-logical-modifiers&quot; id=&quot;markdown-toc-heading-logical-modifiers&quot;&gt;Logical Modifiers&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#heading-sonically-multiplied-output&quot; id=&quot;markdown-toc-heading-sonically-multiplied-output&quot;&gt;Sonically-Multiplied Output&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-# Introduction to Sonic Multiplicities
+&lt;h1 id=&quot;heading-introduction-to-sonic-multiplicities&quot;&gt;Introduction to Sonic Multiplicities&lt;/h1&gt;
 
-My saga began in 2008, the year I began my education at the Jacobs School of Music. I developed Sonic Multiplicities independently, choosing to not build on top of other electroacoustic methodologies being explored at the time throughout academia. I was disappointed when I left my bedroom for one of the world's finest music institutions to encounter uninspiring, derivative approaches such as the &quot;laptop orchestra&quot;[^1].
+&lt;p&gt;My saga began in 2008, the year I began my education at the Jacobs School of Music. I developed Sonic Multiplicities independently, choosing to not build on top of other electroacoustic methodologies being explored at the time throughout academia. I was disappointed when I left my bedroom for one of the world's finest music institutions to encounter uninspiring, derivative approaches such as the &quot;laptop orchestra&quot;&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
-Composers utilizing electronics in the early 20th century can be credited with introducing brand new musical languages to the concert hall. But since computer technology became the main tool of the electroacoustic composer, the results have been largely stale and stagnant. Though great works have been conceived on highly specialized and proprietary audio delivery formats such as higher-order ambisonic arrays, the latter half of the 20th century as a whole can be seen as in decline, compared with the former half.
+&lt;p&gt;Composers utilizing electronics in the early 20th century can be credited with introducing brand new musical languages to the concert hall. But since computer technology became the main tool of the electroacoustic composer, the results have been largely stale and stagnant. Computers did more to automate and streamline traditional compositional processes, and less to broaden the size and scope of the sonic pallette. Though great works have been conceived on highly specialized and proprietary audio delivery formats such as higher-order ambisonic arrays, the accessibility of such approaches is limited. Generally, the latter half of the 20th century as a whole can be seen as in decline, compared with the former half, as it relates to innovations in electronic music.&lt;/p&gt;
 
-As both a composer and a media technologist, I have observed many novel approaches to musical computer input. Leveraging MIDI controllers, OSC signals, DIY hardware, and other such things, I have seen many a musical peer attempt to construct a musical language on top of proprietary audio software like Ableton Live. The problem with these approaches is the limitation they place upon the performer and composer alike. Audio software wrestles control away from the composer by making highly opinionated choices around interface design, audio routing, and other essential properties. Similarly, performers are restricted by having to retrofit largely un-musical inputs into the larger corporate digital music paradigm.
+&lt;p&gt;To me, modern electroacoustic music still has not solved certain essential challenges:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Unnatural, musically-clumsy input methodology&lt;/li&gt;
+  &lt;li&gt;Inability to modulate rhythm/tempi gracefully&lt;/li&gt;
+  &lt;li&gt;Very poor stage appeal (&quot;is the laptop performer running a Max patch or checking their email?&quot;)&lt;/li&gt;
+&lt;/ul&gt;
 
-Modern computing technology is so powerful that its users should not have to compromise musical integrity just to leverage it. Musicians are taught a timeless, highly skilled art that should not have to be devalued, simplified, or minimized, especially when paired with a technology so easily adopted.
+&lt;p&gt;As both a composer and a media technologist, I have observed many novel approaches to solve these issues, notably on the musical computer input front. Leveraging MIDI controllers, OSC signals, DIY hardware, and other such things, I have seen many a musical peer attempt to construct a musical language on top of proprietary audio software like Ableton Live. The problem with these approaches is the limitation they place upon the performer and composer alike. Audio software wrestles control away from the composer by making highly opinionated choices around interface design, audio routing, and other essential properties. Similarly, performers are restricted by having to retrofit largely un-musical inputs into the larger corporate digital music paradigm.&lt;/p&gt;
 
-## Musical Input
+&lt;p&gt;Modern computing technology is so powerful that its users should not have to compromise musical integrity just to leverage it. Musicians are taught a timeless, highly skilled art that should not have to be devalued, simplified, or minimized, especially when paired with a technology so easily adopted.&lt;/p&gt;
 
-As a novice seven-year-old drummer, I started out on a three-piece drum kit: bass, snare, high tom, hi-hat, and crash cymbal. My instructor explained that all those extra fancy toms, cymbals, and miscellaneous doodads were super cool, but why bother playing them until you can master a three-piece kit first? What advantage could you take of extra pieces if you could not fully exploit a simpler kit?
+&lt;h2 id=&quot;heading-musical-input&quot;&gt;Musical Input&lt;/h2&gt;
 
-Input into Sonic Multiplicities is musical, and simple. The system takes one - and only one - microphone input, meant to be used by a single, solo instrumentalist. I see no need to process more than one musical input, because as of today, Sonic Multiplicities is still very much an experimental methodology. Why add more inputs before mastering solo input?
+&lt;p&gt;As a novice seven-year-old drummer, I started out on a three-piece drum kit: bass, snare, high tom, hi-hat, and crash cymbal. My instructor explained that all those extra fancy toms, cymbals, and miscellaneous doodads were super cool, but why bother playing them until you can master a three-piece kit first? What advantage could you take of extra pieces if you could not fully exploit a simpler kit?&lt;/p&gt;
 
-## Logic-Based Compositional Framework
+&lt;p&gt;Input into Sonic Multiplicities is musical, and simple. The system takes one - and only one - microphone input, meant to be used by a single, solo instrumentalist. I see no need to process more than one musical input, because as of today, Sonic Multiplicities is still very much an experimental methodology. Why add more inputs before mastering solo input?&lt;/p&gt;
 
-As a composer, I wanted to present a new type of compositional structure, which would define a system of rules, triggers, possibilities, and aleatoric contexts.
+&lt;h2 id=&quot;heading-logic-based-compositional-framework&quot;&gt;Logic-Based Compositional Framework&lt;/h2&gt;
 
-An SM piece is composed through the following actions:
-* Tuning the AI stack's _weights and measures_
-* Designing a series of _triggers_, which invoke changes to either the internal systemic logic, or the sonic output of the SM software
-* Defining a series of _synths_, which process the input signal and/or stored audio buffers deriving from prior input signals
-* Defining a series of _rhythmic patterns, subpatterns, and subdivisions_, which may process the input signal or other internally-generated audio signals
-* Constructing one or more _musical routines_, which serve as the gestural and melodic theme(s) of the work
+&lt;p&gt;As a composer, I wanted to present a new type of compositional structure, which would define a system of rules, triggers, possibilities, and aleatoric contexts.&lt;/p&gt;
 
-Sonic Multiplcities was originally conceived with opinionated logic, simply representing my personal opinions on what should happen when certain musical events occur during the performance. I have since taken these opinions out of the overall software framework, allowing each user to define their own schemas, leading to more personalized and experimental outcomes. Training the system on these outcomes creates a highly personalized SM context, making each SM node unique to its primary user(s).
+&lt;p&gt;An SM piece is composed through the following actions:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tuning the AI stack's &lt;em&gt;weights and measures&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Designing a series of &lt;em&gt;triggers&lt;/em&gt;, which invoke changes to either the internal systemic logic, or the sonic output of the SM software&lt;/li&gt;
+  &lt;li&gt;Defining a series of &lt;em&gt;synths&lt;/em&gt;, which process the input signal and/or stored audio buffers deriving from prior input signals&lt;/li&gt;
+  &lt;li&gt;Defining a series of &lt;em&gt;rhythmic patterns, subpatterns, and subdivisions&lt;/em&gt;, which may process the input signal or other internally-generated audio signals&lt;/li&gt;
+  &lt;li&gt;Constructing one or more &lt;em&gt;musical routines&lt;/em&gt;, which serve as the gestural and melodic theme(s) of the work&lt;/li&gt;
+&lt;/ul&gt;
 
-### Logical Modifiers
+&lt;p&gt;Sonic Multiplcities was originally conceived with opinionated logic, simply representing my personal opinions on what should happen when certain musical events occur during the performance. I have since taken these opinions out of the overall software framework, allowing each user to define their own schemas, leading to more personalized and experimental outcomes. Training the system on these outcomes creates a highly personalized SM context, making each SM node unique to its primary user(s).&lt;/p&gt;
 
-In addition to the above-listed compositional actions, further variation and aleatory may be explored by inputting a JSON data object, and mapping its keys/values to certain properties as defined in the work.
+&lt;h3 id=&quot;heading-logical-modifiers&quot;&gt;Logical Modifiers&lt;/h3&gt;
 
-This introduces the potential for variation of outcome dependent upon date, time, location, weather, the Bitcoin/USD exchange rate, etc. Whatever strikes your fancy!
+&lt;p&gt;In addition to the above-listed compositional actions, further variation and aleatory may be explored by inputting a JSON data object, and mapping its keys/values to certain properties as defined in the work.&lt;/p&gt;
 
-## Sonically-Multiplied Output
+&lt;p&gt;This introduces the potential for variation of outcome dependent upon date, time, location, weather, the Bitcoin/USD exchange rate, etc. Whatever strikes your fancy!&lt;/p&gt;
 
-...TODO
+&lt;h2 id=&quot;heading-sonically-multiplied-output&quot;&gt;Sonically-Multiplied Output&lt;/h2&gt;
 
-[^1]: This is a footnote about laptop orchestras.</content><author><name>{&quot;name&quot;=&gt;nil, &quot;job_title&quot;=&gt;nil, &quot;location&quot;=&gt;&quot;Brooklyn, NY&quot;, &quot;email&quot;=&gt;&quot;andrew@grathwohl.me&quot;, &quot;social_links&quot;=&gt;[{&quot;name&quot;=&gt;&quot;bandcamp&quot;, &quot;url&quot;=&gt;&quot;https://empire-sm.bandcamp.com/&quot;}, {&quot;name&quot;=&gt;&quot;github&quot;, &quot;url&quot;=&gt;nil}, {&quot;name&quot;=&gt;&quot;instagram&quot;, &quot;url&quot;=&gt;nil}, {&quot;name&quot;=&gt;&quot;linkedin&quot;, &quot;url&quot;=&gt;nil}, {&quot;name&quot;=&gt;&quot;soundcloud&quot;, &quot;url&quot;=&gt;&quot;https://soundcloud.com/empire-sm&quot;}, {&quot;name&quot;=&gt;&quot;stackoverflow&quot;, &quot;url&quot;=&gt;nil}, {&quot;name&quot;=&gt;&quot;twitter&quot;, &quot;url&quot;=&gt;&quot;https://twitter.com/EmpireSM_&quot;}]}</name><email>andrew@grathwohl.me</email></author><summary type="html"></summary></entry></feed>
+&lt;p&gt;…TODO&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://i.ytimg.com/vi/RoH9ssraNtU/maxresdefault.jpg&quot;&gt;The &quot;missionary position&quot; of electronic music ensembles&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Andrew Grathwohl</name><email>andrew@grathwohl.me</email></author><summary type="html"></summary></entry></feed>
