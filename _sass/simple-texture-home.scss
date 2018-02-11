@@ -83,16 +83,35 @@ textarea {
 
 @keyframes triangle{
   0% {background-image: url(../images/theme/sm4.png);}
-  38% {background-image: url(../images/theme/sm-2-scale.png);}
-  66% {background-image: url(../images/theme/sm-3-scale.png);}
-  100% {background-image: url(../images/theme/sm-1-scale.png);}
+  40% {background-image: url(../images/theme/sm-2-scale.png);}
+  76% {background-image: url(../images/theme/sm-3-scale.png);}
+  90% {background-image: url(../images/theme/sm-1-scale.png);}
+  100% {background-image: url(../images/theme/sm-3-scale.png);}
+}
+
+@keyframes triangle2{
+  0% {background-image: url(../images/theme/sm4.png);}
+  99% {background-image: url(../images/theme/sm-2-scale.png);}
+  100% {background-image: url(../images/theme/sm4.png);}
 }
 
 #section0 {
-    background-image: url('../images/theme/noisy_texture_section0-200x200.png'),url('../images/theme/sm4.png');
-    background-position: 0 0,center;
-    background-repeat: repeat,no-repeat;
-    background-size: auto,650px;
+    background-image: url('../images/theme/noisy_texture_section0-200x200.png');
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto;
+}
+
+.tri {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 650px;
+    animation-name: triangle;
+    animation-duration: 60s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
 }
 
 #section1 {
