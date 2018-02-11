@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2018-02-10T19:05:21-05:00</updated><id>http://localhost:4000/</id><title type="html">EMPIRE</title><subtitle>Sonic Multiplicities</subtitle><author><name>Andrew Grathwohl</name><email>andrew@grathwohl.me</email></author><entry><title type="html">A Brief Introduction</title><link href="http://localhost:4000/blog/2017/12/14/sm-intro/" rel="alternate" type="text/html" title="A Brief Introduction" /><published>2017-12-14T00:00:00-05:00</published><updated>2017-12-14T00:00:00-05:00</updated><id>http://localhost:4000/blog/2017/12/14/sm-intro</id><content type="html" xml:base="http://localhost:4000/blog/2017/12/14/sm-intro/">&lt;ul class=&quot;toc&quot; id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en" /><updated>2018-02-11T05:28:47-05:00</updated><id>/</id><title type="html">EMPIRE</title><subtitle>Sonic Multiplicities</subtitle><author><name>Andrew Grathwohl</name><email>andrew@grathwohl.me</email></author><entry><title type="html">A Brief Introduction</title><link href="/blog/2017/12/14/sm-intro/" rel="alternate" type="text/html" title="A Brief Introduction" /><published>2017-12-14T00:00:00-05:00</published><updated>2017-12-14T00:00:00-05:00</updated><id>/blog/2017/12/14/sm-intro</id><content type="html" xml:base="/blog/2017/12/14/sm-intro/">&lt;ul class=&quot;toc&quot; id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#heading-introduction-to-sonic-multiplicities&quot; id=&quot;markdown-toc-heading-introduction-to-sonic-multiplicities&quot;&gt;Introduction to Sonic Multiplicities&lt;/a&gt;    &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;#heading-musical-input&quot; id=&quot;markdown-toc-heading-musical-input&quot;&gt;Musical Input&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#heading-logic-based-compositional-framework&quot; id=&quot;markdown-toc-heading-logic-based-compositional-framework&quot;&gt;Logic-Based Compositional Framework&lt;/a&gt;        &lt;ul&gt;
@@ -50,9 +50,9 @@
 
 &lt;h3 id=&quot;heading-logical-modifiers&quot;&gt;Logical Modifiers&lt;/h3&gt;
 
-&lt;p&gt;In addition to the above-listed compositional actions, further variation and aleatory may be explored by inputting a JSON data object, and mapping its keys/values to certain properties as defined in the work.&lt;/p&gt;
+&lt;p&gt;In addition to the above-listed compositional actions, further variation and aleatory may be explored by inputting a JSON data object, and mapping its keys/values to certain properties as defined in the work. This introduces the potential for variation of outcome dependent upon date, time, location, weather, the Bitcoin/USD exchange rate, etc. Whatever strikes your fancy!&lt;/p&gt;
 
-&lt;p&gt;This introduces the potential for variation of outcome dependent upon date, time, location, weather, the Bitcoin/USD exchange rate, etc. Whatever strikes your fancy!&lt;/p&gt;
+&lt;p&gt;The system is further tuned by the virtuosity of the in-use audio equipment. High-end microphone/DSP interfaces, low-latency OS kernels, and proper mic technique enable tighter response times as well as more rhythmic accuracy. Lower-end and intentionally-misconfigured equipment, conversely, result in a less careful system, which deprioritizes accuracy in favor of stability and reduction of xruns.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; This dynamic approach to logic and modeling empowers composers to consider equipment selection and configuration artistically, rather than practically.&lt;/p&gt;
 
 &lt;h2 id=&quot;heading-sonically-multiplied-output&quot;&gt;Sonically-Multiplied Output&lt;/h2&gt;
 
@@ -62,6 +62,9 @@
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
       &lt;p&gt;&lt;a href=&quot;https://i.ytimg.com/vi/RoH9ssraNtU/maxresdefault.jpg&quot;&gt;The &quot;missionary position&quot; of electronic music ensembles&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://alsa.opensrc.org/Xruns&quot;&gt;xruns should be avoided at all costs&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;</content><author><name>Andrew Grathwohl</name><email>andrew@grathwohl.me</email></author><summary type="html"></summary></entry></feed>
