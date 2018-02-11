@@ -86,7 +86,7 @@ textarea {
   40% {background-image: url(../images/theme/sm-2-scale.png);}
   76% {background-image: url(../images/theme/sm-3-scale.png);}
   90% {background-image: url(../images/theme/sm-1-scale.png);}
-  100% {background-image: url(../images/theme/sm-3-scale.png);}
+  100% {background-image: url(../images/theme/sm4.png);}
 }
 
 @keyframes triangle2{
@@ -111,7 +111,7 @@ textarea {
     animation-direction: alternate;
     animation-iteration-count: infinite;
     animation-timing-function: linear;
-    animation-fill-mode: forwards;
+    animation-fill-mode: both;
 }
 
 #section1 {
